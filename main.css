@@ -1,0 +1,27 @@
+header {
+	background-color: yellow;
+	margin-bottom: 30px;
+}
+
+body {
+	font-family: "Roboto", sans-serif;
+}
+
+.playing_card {
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.image {
+  width: 100%;
+}
+
+.label {
+  padding: 10px;
+}
+
+.label h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
